@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://raw.githubusercontent.com/JoshueG/Blockcert-Project/main/issuer-profile.json",
+  "type": "Profile",
+  "name": "Facultad de Idiomas",
+  "url": "https://idiomas.uabc.mx/",
+  "email": "idiomasens@uabc.edu.mx",
+  "description": "Es una Facultad",
+  "image": "https://your-university.org/images/logo.png",
+  "publicKey": [
+    {
+      "id": "ecdsa-koblitz-pubkey:yourIssuerPublicKeyHere",
+      "created": "2020-01-01T19:73:24Z"
+    }
+  ],
+  "revocationList": "https://raw.githubusercontent.com/your-username/blockcerts-issuer/main/revocation-list.json"
+}
