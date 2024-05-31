@@ -9,8 +9,8 @@
   "image": "https://raw.githubusercontent.com/JoshueG/Blockcert-Project/main/images/logo.png",
   "publicKey": [
     {
-      "id": "ecdsa-koblitz-pubkey:yourIssuerPublicKeyHere",
-      "created": "2020-01-01T19:73:24Z"
+      "id": "ecdsa-koblitz-pubkey:MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAE4wK2VBzYAx0ZAAT530acwSDjfWyGa1dnMiePSSZiEY/MrjjHN/kiLwvtPsHx7CIdNRqATbSsEW75TC136mHKPw==",
+      "created": "2024-05-31T19:00:00Z"
     }
   ],
   "revocationList": "https://raw.githubusercontent.com/JoshueG/Blockcert-Project/main/revocation-list.json"
